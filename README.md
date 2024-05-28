@@ -10,9 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,10 +29,7 @@ Users should be able to:
 ![](./assets/images/the_web.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [Add live site URL here](https://feimb.github.io/Social-links-profile/)
 
 ### Built with
 
@@ -44,8 +39,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I really don't plan to add much more, I'm just doing it to practice, but if I had to change it I would just put my face on it.
 
 ## Author
 
