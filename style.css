@@ -14,7 +14,8 @@
 }
 body{
     font-family: "Inter", sans-serif;
-    height: 100vh;
+    /* el height con el vh no permite que la pagina haga scroll si se añade otro cotenedor*/
+    min-height: 100vh;
     background-color: var(--primary-color);
     display: flex;
     align-items: center;
@@ -88,6 +89,7 @@ ol{
     position: fixed;
     bottom: 0;
 }
+
 @media screen and (max-width:475px){
     main{
         max-width: none;
